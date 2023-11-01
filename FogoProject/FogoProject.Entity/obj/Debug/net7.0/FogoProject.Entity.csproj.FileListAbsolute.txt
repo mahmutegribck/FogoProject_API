@@ -1,0 +1,11 @@
+C:\Users\Mahmut\Desktop\FogoProject\FogoProject.Entity\bin\Debug\net7.0\FogoProject.Entity.deps.json
+C:\Users\Mahmut\Desktop\FogoProject\FogoProject.Entity\bin\Debug\net7.0\FogoProject.Entity.dll
+C:\Users\Mahmut\Desktop\FogoProject\FogoProject.Entity\bin\Debug\net7.0\FogoProject.Entity.pdb
+C:\Users\Mahmut\Desktop\FogoProject\FogoProject.Entity\obj\Debug\net7.0\FogoProject.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mahmut\Desktop\FogoProject\FogoProject.Entity\obj\Debug\net7.0\FogoProject.Entity.AssemblyInfoInputs.cache
+C:\Users\Mahmut\Desktop\FogoProject\FogoProject.Entity\obj\Debug\net7.0\FogoProject.Entity.AssemblyInfo.cs
+C:\Users\Mahmut\Desktop\FogoProject\FogoProject.Entity\obj\Debug\net7.0\FogoProject.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Mahmut\Desktop\FogoProject\FogoProject.Entity\obj\Debug\net7.0\FogoProject.Entity.dll
+C:\Users\Mahmut\Desktop\FogoProject\FogoProject.Entity\obj\Debug\net7.0\refint\FogoProject.Entity.dll
+C:\Users\Mahmut\Desktop\FogoProject\FogoProject.Entity\obj\Debug\net7.0\FogoProject.Entity.pdb
+C:\Users\Mahmut\Desktop\FogoProject\FogoProject.Entity\obj\Debug\net7.0\ref\FogoProject.Entity.dll

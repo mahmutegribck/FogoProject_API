@@ -1,0 +1,17 @@
+C:\Users\Mahmut\Desktop\FogoProject\FogoProject.Business\bin\Debug\net7.0\FogoProject.Business.deps.json
+C:\Users\Mahmut\Desktop\FogoProject\FogoProject.Business\bin\Debug\net7.0\FogoProject.Business.dll
+C:\Users\Mahmut\Desktop\FogoProject\FogoProject.Business\bin\Debug\net7.0\FogoProject.Business.pdb
+C:\Users\Mahmut\Desktop\FogoProject\FogoProject.Business\obj\Debug\net7.0\FogoProject.Business.csproj.AssemblyReference.cache
+C:\Users\Mahmut\Desktop\FogoProject\FogoProject.Business\obj\Debug\net7.0\FogoProject.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mahmut\Desktop\FogoProject\FogoProject.Business\obj\Debug\net7.0\FogoProject.Business.AssemblyInfoInputs.cache
+C:\Users\Mahmut\Desktop\FogoProject\FogoProject.Business\obj\Debug\net7.0\FogoProject.Business.AssemblyInfo.cs
+C:\Users\Mahmut\Desktop\FogoProject\FogoProject.Business\obj\Debug\net7.0\FogoProject.Business.csproj.CoreCompileInputs.cache
+C:\Users\Mahmut\Desktop\FogoProject\FogoProject.Business\obj\Debug\net7.0\FogoProject.Business.dll
+C:\Users\Mahmut\Desktop\FogoProject\FogoProject.Business\obj\Debug\net7.0\refint\FogoProject.Business.dll
+C:\Users\Mahmut\Desktop\FogoProject\FogoProject.Business\obj\Debug\net7.0\FogoProject.Business.pdb
+C:\Users\Mahmut\Desktop\FogoProject\FogoProject.Business\obj\Debug\net7.0\ref\FogoProject.Business.dll
+C:\Users\Mahmut\Desktop\FogoProject\FogoProject.Business\bin\Debug\net7.0\FogoProject.DataAccess.dll
+C:\Users\Mahmut\Desktop\FogoProject\FogoProject.Business\bin\Debug\net7.0\FogoProject.Entity.dll
+C:\Users\Mahmut\Desktop\FogoProject\FogoProject.Business\bin\Debug\net7.0\FogoProject.DataAccess.pdb
+C:\Users\Mahmut\Desktop\FogoProject\FogoProject.Business\bin\Debug\net7.0\FogoProject.Entity.pdb
+C:\Users\Mahmut\Desktop\FogoProject\FogoProject.Business\obj\Debug\net7.0\FogoProject.Business.csproj.CopyComplete

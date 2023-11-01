@@ -1,0 +1,17 @@
+C:\Users\Mahmut\Desktop\FogoProject\FogoProject.DataAccess\bin\Debug\net7.0\FogoProject.DataAccess.deps.json
+C:\Users\Mahmut\Desktop\FogoProject\FogoProject.DataAccess\bin\Debug\net7.0\FogoProject.DataAccess.runtimeconfig.json
+C:\Users\Mahmut\Desktop\FogoProject\FogoProject.DataAccess\bin\Debug\net7.0\FogoProject.DataAccess.dll
+C:\Users\Mahmut\Desktop\FogoProject\FogoProject.DataAccess\bin\Debug\net7.0\FogoProject.DataAccess.pdb
+C:\Users\Mahmut\Desktop\FogoProject\FogoProject.DataAccess\obj\Debug\net7.0\FogoProject.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Mahmut\Desktop\FogoProject\FogoProject.DataAccess\obj\Debug\net7.0\FogoProject.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mahmut\Desktop\FogoProject\FogoProject.DataAccess\obj\Debug\net7.0\FogoProject.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Mahmut\Desktop\FogoProject\FogoProject.DataAccess\obj\Debug\net7.0\FogoProject.DataAccess.AssemblyInfo.cs
+C:\Users\Mahmut\Desktop\FogoProject\FogoProject.DataAccess\obj\Debug\net7.0\FogoProject.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Mahmut\Desktop\FogoProject\FogoProject.DataAccess\obj\Debug\net7.0\FogoProject.DataAccess.dll
+C:\Users\Mahmut\Desktop\FogoProject\FogoProject.DataAccess\obj\Debug\net7.0\refint\FogoProject.DataAccess.dll
+C:\Users\Mahmut\Desktop\FogoProject\FogoProject.DataAccess\obj\Debug\net7.0\FogoProject.DataAccess.pdb
+C:\Users\Mahmut\Desktop\FogoProject\FogoProject.DataAccess\obj\Debug\net7.0\FogoProject.DataAccess.genruntimeconfig.cache
+C:\Users\Mahmut\Desktop\FogoProject\FogoProject.DataAccess\obj\Debug\net7.0\ref\FogoProject.DataAccess.dll
+C:\Users\Mahmut\Desktop\FogoProject\FogoProject.DataAccess\bin\Debug\net7.0\FogoProject.Entity.dll
+C:\Users\Mahmut\Desktop\FogoProject\FogoProject.DataAccess\bin\Debug\net7.0\FogoProject.Entity.pdb
+C:\Users\Mahmut\Desktop\FogoProject\FogoProject.DataAccess\obj\Debug\net7.0\FogoProject.DataAccess.csproj.CopyComplete

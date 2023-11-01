@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\FogoProject.API.props" />
+</Project>

@@ -19,15 +19,18 @@ namespace FogoProject.API.Controllers
             _productService = productService;
         }
 
+
+
         [HttpGet]
         public async Task<IActionResult> GetAllProducts()
         {
-            var products = await _productService.GetAll().ToListAsync();
+            var products = await _productService.GetAll();
 
-            if (products.Count == 0) return NotFound();
-            
+            if (!products.Any()) return NotFound();
+
             return Ok(products);
         }
+
 
         [HttpGet("{productId}")]
         public async Task<IActionResult> GetProduct([FromRoute] int productId)
@@ -35,9 +38,10 @@ namespace FogoProject.API.Controllers
             var product = await _productService.GetById(productId);
 
             if (product == null) return NotFound();
-         
+
             return Ok(product);
         }
+
 
         [HttpPost]
         public async Task<IActionResult> CreateProduct([FromBody] CreateProductDTO createProductDTO)
@@ -64,6 +68,7 @@ namespace FogoProject.API.Controllers
 
             return NoContent();
         }
+
 
         [HttpDelete("{productId}")]
         public async Task<IActionResult> DeleteProduct([FromRoute] int productId)

@@ -11,8 +11,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace FogoProject.DataAccess.Migrations
 {
     [DbContext(typeof(FogoProjectDBContext))]
-    [Migration("20231101021959_mig_initial")]
-    partial class mig_initial
+    [Migration("20231101062122_initial_mig")]
+    partial class initial_mig
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)

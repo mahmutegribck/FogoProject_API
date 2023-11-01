@@ -10,10 +10,6 @@ namespace FogoProject.DataAccess
 {
     public class FogoProjectDBContext : DbContext
     {
-        public FogoProjectDBContext()
-        {
-        }
-
         public FogoProjectDBContext(DbContextOptions<FogoProjectDBContext> options) : base(options)
         {
 

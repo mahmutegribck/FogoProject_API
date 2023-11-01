@@ -10,7 +10,7 @@ namespace FogoProject.Business.Products
     public interface IProductService
     {
         Task<GetProductDTO> GetById(int productId);
-        IQueryable<GetProductDTO> GetAll();
+        Task<IEnumerable<GetProductDTO>> GetAll();
         Task Add(CreateProductDTO createProductDTO);
         Task Update(int productId, UpdateProductDTO updateProductDTO);
         Task Delete(int productId);

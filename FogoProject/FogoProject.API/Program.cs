@@ -16,13 +16,15 @@ builder.Services.AddEndpointsApiExplorer();
 
 builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
 
-builder.Services.AddScoped<ICategoryRepository, CategoryRepository>();
-builder.Services.AddScoped<ICategoryService, CategoryService>();
+builder.Services.AddTransient<ICategoryRepository, CategoryRepository>();
+builder.Services.AddTransient<ICategoryService, CategoryService>();
 
-builder.Services.AddScoped<IProductService, ProductService>();
-builder.Services.AddScoped<IProductRepository, ProductRepository>();
+builder.Services.AddTransient<IProductService, ProductService>();
+builder.Services.AddTransient<IProductRepository, ProductRepository>();
 
-builder.Services.AddScoped(typeof(IGenericRepository<>), typeof(GenericRepository<>));
+builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
+
+builder.Services.AddTransient(typeof(IGenericRepository<>), typeof(GenericRepository<>));
 
 
 

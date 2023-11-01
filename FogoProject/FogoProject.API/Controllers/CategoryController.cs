@@ -23,11 +23,11 @@ namespace FogoProject.API.Controllers
 
 
         [HttpGet]
-        public async Task<IActionResult> GetAllCategories()
+        public async Task <IActionResult> GetAllCategories()
         {
-            var categories = await _categoryService.GetAll().ToListAsync();
+            var categories =  await _categoryService.GetAll();
 
-            if (categories.Count == 0) return NotFound();
+            if (!categories.Any()) return NotFound();
 
             return Ok(categories);
         }

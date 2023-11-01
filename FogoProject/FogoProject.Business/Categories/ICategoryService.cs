@@ -10,7 +10,7 @@ namespace FogoProject.Business.Categories
     public interface ICategoryService
     {
         Task<GetCategoryDTO> GetById(int categoryId);
-        IQueryable<GetCategoryDTO> GetAll();
+        Task<IEnumerable<GetCategoryDTO>> GetAll();
         Task Add(CreateCategoryDTO createCategoryDTO);
         Task Update(int categoryId,UpdateCategoryDTO updateCategoryDTO);
         Task Delete(int categoryId);

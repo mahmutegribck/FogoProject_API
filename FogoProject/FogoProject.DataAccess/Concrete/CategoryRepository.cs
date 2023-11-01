@@ -15,12 +15,15 @@ namespace FogoProject.DataAccess.Concrete
         {
         }
 
+
+
         public async Task<Category> GetCategoryWithProducts(int categoryId)
         {
 
             var category = await GetAll().Include(c => c.Products).FirstOrDefaultAsync(c => c.Id == categoryId);
             return category;
         }
+
 
         public async Task<bool> IsCategoryNameUnique(int? categoryId, string categoryName)
         {

@@ -5,7 +5,7 @@
 namespace FogoProject.DataAccess.Migrations
 {
     /// <inheritdoc />
-    public partial class mig_initial : Migration
+    public partial class initial_mig : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
